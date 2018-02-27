@@ -1,2 +1,2 @@
 # bauxier.github.io
-My Personal Website
+Learning GitHub is fun.
